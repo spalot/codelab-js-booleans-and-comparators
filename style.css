@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(191,255,128);
+}
+h1 {
+  background-color: white;
+  font-family: 'Comfortaa', cursive;
+  font-size: 40px;
+  padding: 10px;
+  border: medium black solid;
+  text-align: center;
+}
